@@ -142,7 +142,6 @@ After execution:
 
 ## 📸 Sample Visuals
 
-(Add these in GitHub after running project)
 
 * Bar Chart → `images/bar_chart.png`
 * Pie Chart → `images/pie_chart.png`
